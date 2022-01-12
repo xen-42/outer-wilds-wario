@@ -3,8 +3,8 @@
     <ProjectGuid>{8A39F9E7-1A89-430C-9C3E-BDFB3B7E17DF}</ProjectGuid>
     <TargetFramework>net48</TargetFramework>
     <OutputPath>Build</OutputPath>
-    <AssemblyTitle>ModTemplate</AssemblyTitle>
-    <Product>ModTemplate</Product>
+    <AssemblyTitle>OuterWario</AssemblyTitle>
+    <Product>OuterWario</Product>
     <Copyright>Copyright ©  2020</Copyright>
     <AllowUnsafeBlocks>true</AllowUnsafeBlocks>
     <CopyLocalLockFileAssemblies>false</CopyLocalLockFileAssemblies>
@@ -26,8 +26,17 @@
     <None Include="manifest.json">
       <CopyToOutputDirectory>Always</CopyToOutputDirectory>
     </None>
+	<None Include="wario">
+      <CopyToOutputDirectory>Always</CopyToOutputDirectory>
+    </None>
+	<None Include="wario.manifest">
+      <CopyToOutputDirectory>Always</CopyToOutputDirectory>
+    </None>
+	<None Include="wario dies.wav">
+      <CopyToOutputDirectory>Always</CopyToOutputDirectory>
+    </None>
   </ItemGroup>
   <ItemGroup>
-    <Content Include="ModTemplate.csproj.user" />
+    <Content Include="OuterWario.csproj.user" />
   </ItemGroup>
 </Project>
