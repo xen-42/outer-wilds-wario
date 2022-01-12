@@ -8,3 +8,4 @@ Waaaaaaah!
 
 For legal reasons this is a parody
 
+"Combined Wario model" (https://skfb.ly/6VMpO) by MichaelV is licensed under Creative Commons Attribution (http://creativecommons.org/licenses/by/4.0/).
