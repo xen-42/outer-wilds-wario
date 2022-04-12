@@ -1,6 +1,6 @@
 # Outer Wilds - Wario
 
-![outer waaaaaaaaaaaaaaaaah](https://user-images.githubusercontent.com/22628069/149204731-8bc3a0be-3a95-4845-81db-f486cfd243bf.png)
+![waa](https://user-images.githubusercontent.com/3955124/163003092-ba0dba68-67f9-4941-9447-23dbcfe3e93b.gif)
 
 Waaaaaaah!
 
